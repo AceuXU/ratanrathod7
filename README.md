@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratanrathod7
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java and c++
-- 💞️ I’m looking to collaborate on ...web design 
+- 🌱 I’m currently learning ...python and javascript
+- 💞️ currently just focusing on learning
 - 📫 How to reach me ... ratanrathod870@gmail.com
 
 <!---
