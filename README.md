@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ratanrathod7
+- 👋 Hi, I’m @AceuXU
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python and javascript
+- 🌱 I’m currently learning ...java
 - 💞️ currently just focusing on learning
 - 📫 How to reach me ... ratanrathod870@gmail.com
 
